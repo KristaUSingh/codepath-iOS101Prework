@@ -10,9 +10,22 @@
 		25DBE5AB2DBE99CC00904107 /* iOS101-Prework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS101-Prework.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		2548D2502DBEA9340016706C /* Exceptions for "iOS101-Prework" folder in "iOS101-Prework" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 25DBE5AA2DBE99CC00904107 /* iOS101-Prework */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		25DBE5AD2DBE99CC00904107 /* iOS101-Prework */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				2548D2502DBEA9340016706C /* Exceptions for "iOS101-Prework" folder in "iOS101-Prework" target */,
+			);
 			path = "iOS101-Prework";
 			sourceTree = "<group>";
 		};
